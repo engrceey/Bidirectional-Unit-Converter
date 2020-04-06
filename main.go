@@ -95,5 +95,5 @@ func main() {
 	con := Converter{}
 
 	// Change the Method and values for different conversions
-	fmt.Printf("%.3f", con.PoundsToKilo(5))
+	fmt.Printf("%.3f\n", con.PoundsToKilo(5))
 }
